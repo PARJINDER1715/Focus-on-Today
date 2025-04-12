@@ -32,7 +32,7 @@ To run the project locally:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/focus-on-today.git
+   git clone https://github.com/PARJINDER1715/focus-on-today.git
    cd focus-on-today
 2. Open index.html in your browser
    start index.html
